@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daftar Belanja</string>
+    <string name="save">SAVE</string>
+    <string name="banyak">Banyak</string>
+    <string name="name">Nama</string>
+    <string name="empty_not_saved">Data belanja tidak tersimpan</string>
+    <string name="saved">Data Belanja Tersimpan</string>
+</resources>
